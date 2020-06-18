@@ -1,0 +1,41 @@
+html{
+    background-color: black;
+    color: white; 
+    text-align: center;
+    font-family: Verdana;
+    font-weight: normal; 
+  }
+  p {
+    color: aquamarine;
+    text-decoration: underline; 
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 50px;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  h2 {
+    font-size: 42px;
+    font-weight: 300px;
+    padding: 10px;
+  }
+  span {
+    font-size: 21px;
+    color: gray;
+  }
+  footer {
+    text-align: right;
+    padding: 20px;
+  }
+  #kep {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+  }
+  #icon {
+    margin-top: 30px;
+  }
+  #mp {
+    padding: 40px;
+  }
